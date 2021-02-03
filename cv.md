@@ -1,6 +1,6 @@
 
 ![ava](./avatar.png)
-# `Vladimir Petrikevich`
+#  `Vladimir Petrikevich`
   ###    A polite, friendly and sociable person with a great desire and purpose to develop and apply his skills in web development. </br> </br> 
 
 
