@@ -1,37 +1,39 @@
 
 ![ava](./avatar.png)
-#  `Vladimir Petrikevich`
-  ###    A polite, friendly and sociable person with a great desire and purpose to develop and apply his skills in web development. </br> </br> 
+#  **`Vladimir Petrikevich`**
+  ###    A polite, friendly and sociable person with a great desire and purpose to develop and apply his skills in web development. 
 
 
 
 
-## CONTACT </br> 
 
 
-## Address </br>
- 🏰 *Belarus, Minsk* </br>
+## CONTACT 
 
-## Phone </br>
-📞 *+375 29 663 17 43*</br>
 
-## Email </br>
+## **Address** 
+ 🏰 *Belarus, Minsk* 
+
+## **Phone** 
+📞 *+375 29 663 17 43*
+
+## **Email** 
 📧 *Kidokiller87@gmail.com*
 ___
 
 
-## Skills
-* *HTML*</br>
-* *CSS*</br>
-* *JavaScript*</br>
-* *Google Apps Script*</br>
-* *React*</br>
-* *Redux*</br>
-* *Git*</br>
+## **Skills**
+* *HTML*
+* *CSS*
+* *JavaScript*
+* *Google Apps Script*
+* *React*
+* *Redux*
+* *Git*
 
-## Languages
+## **Languages**
 * *English – A2+*
 
-## Projects
+## **Projects**
 
 
