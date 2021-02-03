@@ -1,1 +1,1 @@
-https://Kidokiller87.github.io/rsschool-cv/cv
+[cv](https://Kidokiller87.github.io/rsschool-cv/cv)
