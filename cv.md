@@ -4,10 +4,6 @@
   **A polite, friendly and sociable person with a great desire and purpose to develop and apply his skills in web development.** 
 
 
-
-
-
-
 ## CONTACT 
 
 
